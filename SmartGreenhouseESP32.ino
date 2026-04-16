@@ -3,8 +3,8 @@
 #include <DHT.h>
 
 // WiFi
-const char* ssid = "Redmi Note 12 Pro 5G";
-const char* password = "Ranuswadha";
+const char* ssid = "";
+const char* password = "";
 
 WebServer server(80);
 
